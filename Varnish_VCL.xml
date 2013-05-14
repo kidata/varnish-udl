@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Varnish" ext="" udlVersion="2.0">
+    <UserLang name="Varnish" ext="vcl" udlVersion="2.0">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="yes" forceLineCommentsAtBOL="no" foldCompact="no" />
             <Prefix Keywords1="yes" Keywords2="no" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
