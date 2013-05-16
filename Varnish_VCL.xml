@@ -9,7 +9,7 @@
             <Keywords name="Numbers, additional" id="1"></Keywords>
             <Keywords name="Numbers, prefixes" id="2"></Keywords>
             <Keywords name="Numbers, extras with prefixes" id="3"></Keywords>
-            <Keywords name="Numbers, suffixes" id="4"></Keywords>
+            <Keywords name="Numbers, suffixes" id="4">s m d h</Keywords>
             <Keywords name="Operators1" id="5">= ! ~ &amp; &lt; &gt; ( ) ;</Keywords>
             <Keywords name="Operators2" id="6"></Keywords>
             <Keywords name="Folders in code1, open" id="7">if else elsif </Keywords>
@@ -21,11 +21,11 @@
             <Keywords name="Folders in comment, open" id="13"></Keywords>
             <Keywords name="Folders in comment, middle" id="14"></Keywords>
             <Keywords name="Folders in comment, close" id="15"></Keywords>
-            <Keywords name="Keywords1" id="16">backend sub set return director include remove error call deliver pass lookup</Keywords>
-            <Keywords name="Keywords2" id="17">.host .port .probe .url .interval .timeout .window .threshold .backend .weight</Keywords>
-            <Keywords name="Keywords3" id="18">req. beresp. obj</Keywords>
+            <Keywords name="Keywords1" id="16">acl backend sub set unset return director include remove error call deliver pass lookup import purge fetch hash hit_for_pass ok pass pipe restart</Keywords>
+            <Keywords name="Keywords2" id="17">.host .port .probe .url .interval .timeout .connect_timeout .first_byte_timeout .between_bytes_timeout .window .threshold .backend .weight .initial .retries .list .ttl .suffix .backend .expected_response .request</Keywords>
+            <Keywords name="Keywords3" id="18">beresp. bereq. req.resp. obj. server.</Keywords>
             <Keywords name="Keywords4" id="19"></Keywords>
-            <Keywords name="Keywords5" id="20">synthetic vcl_error vcl_deliver vcl_fetch vcl_recv</Keywords>
+            <Keywords name="Keywords5" id="20">synthetic vcl_deliver vcl_error vcl_fetch vcl_fini vcl_hash vcl_hit vcl_init vcl_miss vcl_recv vcl_pass vcl_pipe </Keywords>
             <Keywords name="Keywords6" id="21"></Keywords>
             <Keywords name="Keywords7" id="22">healthcheck_resp</Keywords>
             <Keywords name="Keywords8" id="23"></Keywords>
